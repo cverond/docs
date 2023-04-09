@@ -77,7 +77,7 @@ Create a Tick object with a pre-existing native DateTime object.
 
 ```php
 $d = new DateTime();
-tick(d);
+tick($d);
 ```
 
 ## Get + Set
